@@ -7,6 +7,7 @@ import Jewelery from "./Jewelery";
 import Electronics from "./Electronics";
 import Men from "./Men";
 import Women from "./Women";
+import Notefound from "./Notefound";
 
 export default function App() {
     const [products,setproducts] = useState([])
@@ -26,6 +27,9 @@ export default function App() {
         <Route path="/electronics" element={<Electronics product={products}/>}/>
         <Route path="/mens" element={<Men product={products}/>}/>
         <Route path="/womens" element={<Women product={products}/>}/>
+        <Route path="/*/" element={<Notefound />}/>
+        <Route path="/womens" element={<Women product={products}/>}/>
+        <Route path="/product/:id" element={<product product={products}/>}/>
 
       </Routes>
    
