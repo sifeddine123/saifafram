@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saifafram/static/css/main.9606c6e1.css",
+    "main.js": "/saifafram/static/js/main.e1f7c37e.js",
+    "static/js/453.da32fb5c.chunk.js": "/saifafram/static/js/453.da32fb5c.chunk.js",
+    "index.html": "/saifafram/index.html",
+    "main.9606c6e1.css.map": "/saifafram/static/css/main.9606c6e1.css.map",
+    "main.e1f7c37e.js.map": "/saifafram/static/js/main.e1f7c37e.js.map",
+    "453.da32fb5c.chunk.js.map": "/saifafram/static/js/453.da32fb5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9606c6e1.css",
+    "static/js/main.e1f7c37e.js"
+  ]
+}
