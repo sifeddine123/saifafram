@@ -27,9 +27,6 @@ export default function App() {
         <Route path="/mens" element={<Men product={products}/>}/>
         <Route path="/womens" element={<Women product={products}/>}/>
 
-
-
-
       </Routes>
    
     </BrowserRouter>
